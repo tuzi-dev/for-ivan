@@ -6,6 +6,7 @@
 #include <Windows.h>
 
 
+int q = 0;
 using namespace std;
 //using std::cout;
 //using std::endl;
